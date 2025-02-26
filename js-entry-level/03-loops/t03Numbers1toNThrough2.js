@@ -5,5 +5,5 @@ function numbers1toNThrough2(number) {
 }
 
 numbers1toNThrough2(10);
-console.log('----------');
+console.log("----------");
 numbers1toNThrough2(5);
